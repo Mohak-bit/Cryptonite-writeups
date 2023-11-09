@@ -3,4 +3,4 @@
 
 ### keygenme-py 
 
-# The writeup for Keygenme-py can be found [here](https://github.com/Mohak-bit/Cryptonite-writeups/blob/main/Keygenme-writeup.md)
+The writeup for Keygenme-py can be found [here](https://github.com/Mohak-bit/Cryptonite-writeups/blob/main/Keygenme-writeup.md)
