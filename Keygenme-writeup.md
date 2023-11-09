@@ -6,7 +6,7 @@
 
 We need to figure out what key_part_dynamic1_trial to get the flag. I went throught the code and found out that the check_key function takes the hexdigest of the sha256 hash of b"FREEMAN" and then selects a certain character by an indexing to a certain point on that string.
 
-Then I simply found out the hexdigest of the sha256 hashes of b"FREEMAN" and got the characters in the given indices.
+Then I simply used a for loop and found out the hexdigest of the sha256 hashes of b"FREEMAN",got the characters in the given indices and printed the final key.
 
 ```
 import hashlib
@@ -29,7 +29,7 @@ for i in indices:
 key_full_template_trial = key_part_static1_trial + key_part_dynamic2_trial + key_part_static2_trial
 print(key_full_template_trial)
 ```
-
+flag: picoCTF{1n_7h3_|<3y_of_0d208392}
 
 ### References
 
