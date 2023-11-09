@@ -8,7 +8,7 @@ We need to figure out what key_part_dynamic1_trial to get the flag. I went throu
 
 Then I simply found out the hexdigest of the sha256 hashes of b"FREEMAN" and got the characters in the given indices.
 
-'''
+```
 import hashlib
 import base64
 
@@ -28,7 +28,7 @@ for i in indices:
 
 key_full_template_trial = key_part_static1_trial + key_part_dynamic2_trial + key_part_static2_trial
 print(key_full_template_trial)
-'''
+```
 
 
 ### References
