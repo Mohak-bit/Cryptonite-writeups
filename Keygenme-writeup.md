@@ -29,7 +29,7 @@ for i in indices:
 key_full_template_trial = key_part_static1_trial + key_part_dynamic2_trial + key_part_static2_trial
 print(key_full_template_trial)
 ```
-flag: picoCTF{1n_7h3_|<3y_of_0d208392}
+flag: `picoCTF{1n_7h3_|<3y_of_0d208392}`
 
 ### References
 
