@@ -8,7 +8,7 @@ I opened the file and it was a bunch of random symbols, but the first 2 letters 
 
 ### References
 
-[1] [Wikipedia page for BMP files](https://en.wikipedia.org/wiki/BMP_file_format)
+[1] [Wikipedia page for BMP files](https://en.wikipedia.org/wiki/BMP_file_format)              
 [2] [Hex editor](https://hexed.it/)
 
 flag: `picoCTF{qu1t3_a_v13w_2020}`
