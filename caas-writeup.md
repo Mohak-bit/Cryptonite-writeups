@@ -12,4 +12,4 @@ https://caas.mars.picoctf.net/cowsay/yoo;ls -l
 https://caas.mars.picoctf.net/cowsay/yoo;cat%20falg.txt
 ```
 
-flag: picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}
+flag: `picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}`
